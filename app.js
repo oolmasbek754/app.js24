@@ -9,7 +9,6 @@ if (country == "USA") {
   }
 }
 
-
 let age = 16;
 let country = "USA";
 let text = "You can Not drive!";
